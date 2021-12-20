@@ -1,0 +1,22 @@
+{
+  "name": "celtj",
+  "version": "1.0.0",
+  "description": "Just a module to convert English letters to Japanese.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "english-to-japanese",
+    "i2rys",
+    "celtj",
+    "english-letters-to-japanese"
+  ],
+  "repository": "https://github.com/I2rys/CELTJ",
+  "author": {
+    "name": "I2rys",
+    "email": "i2rys@protonmail.com",
+    "website": "https://i2rys.xyz"
+  },
+  "license": "MIT"
+}
